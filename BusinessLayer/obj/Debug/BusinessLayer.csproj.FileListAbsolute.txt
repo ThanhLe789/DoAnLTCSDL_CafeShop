@@ -1,0 +1,8 @@
+D:\CoffeeShopSystem\bin\Debug\BusinessLayer.dll
+D:\CoffeeShopSystem\bin\Debug\BusinessLayer.pdb
+D:\CoffeeShopSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\CoffeeShopSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\CoffeeShopSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\CoffeeShopSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\CoffeeShopSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\CoffeeShopSystem\bin\Debug\BusinessLayer.dll.config

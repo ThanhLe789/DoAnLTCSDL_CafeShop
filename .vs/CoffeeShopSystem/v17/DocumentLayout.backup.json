@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CoffeeShopSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E562730-5ED9-46E4-B740-46A23CAEEA74}|DataLayer\\DataLayer.csproj|d:\\coffeeshopsystem\\datalayer\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E562730-5ED9-46E4-B740-46A23CAEEA74}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|d:\\coffeeshopsystem\\coffeeshopsystem\\product\\productfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|solutionrelative:coffeeshopsystem\\product\\productfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|d:\\coffeeshopsystem\\coffeeshopsystem\\product\\productfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|solutionrelative:coffeeshopsystem\\product\\productfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|d:\\coffeeshopsystem\\coffeeshopsystem\\product\\addproductfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|solutionrelative:coffeeshopsystem\\product\\addproductfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|d:\\coffeeshopsystem\\coffeeshopsystem\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B5865E2-0C2A-425C-A61F-4104A36B3CDB}|CoffeeShopSystem\\CoffeeShopSystem.csproj|solutionrelative:coffeeshopsystem\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDL.cs",
+              "DocumentMoniker": "D:\\CoffeeShopSystem\\DataLayer\\ProductDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ProductDL.cs",
+              "ToolTip": "D:\\CoffeeShopSystem\\DataLayer\\ProductDL.cs*",
+              "RelativeToolTip": "DataLayer\\ProductDL.cs*",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAmwLMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:47:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductFrm.cs",
+              "DocumentMoniker": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\Product\\ProductFrm.cs",
+              "RelativeDocumentMoniker": "CoffeeShopSystem\\Product\\ProductFrm.cs",
+              "ToolTip": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\Product\\ProductFrm.cs",
+              "RelativeToolTip": "CoffeeShopSystem\\Product\\ProductFrm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:34:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoardForm.cs [Design]",
+              "DocumentMoniker": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\DashBoard\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "CoffeeShopSystem\\DashBoard\\DashBoardForm.cs",
+              "ToolTip": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\DashBoard\\DashBoardForm.cs [Design]",
+              "RelativeToolTip": "CoffeeShopSystem\\DashBoard\\DashBoardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:30:25.4Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductFrm.cs [Design]",
+              "DocumentMoniker": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\Product\\ProductFrm.cs",
+              "RelativeDocumentMoniker": "CoffeeShopSystem\\Product\\ProductFrm.cs",
+              "ToolTip": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\Product\\ProductFrm.cs [Design]",
+              "RelativeToolTip": "CoffeeShopSystem\\Product\\ProductFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:25:23.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProductFrm.cs",
+              "DocumentMoniker": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\Product\\AddProductFrm.cs",
+              "RelativeDocumentMoniker": "CoffeeShopSystem\\Product\\AddProductFrm.cs",
+              "ToolTip": "D:\\CoffeeShopSystem\\CoffeeShopSystem\\Product\\AddProductFrm.cs",
+              "RelativeToolTip": "CoffeeShopSystem\\Product\\AddProductFrm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:51:53.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
